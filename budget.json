@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "a",
+    "type": "b",
+    "quantity": 5,
+    "pricePerUnit": 100,
+    "hasImage": "false"
+  },
+  {
+    "id": 3,
+    "name": "c",
+    "type": "k",
+    "quantity": 300,
+    "pricePerUnit": 1000,
+    "hasImage": "false"
+  }
+]
